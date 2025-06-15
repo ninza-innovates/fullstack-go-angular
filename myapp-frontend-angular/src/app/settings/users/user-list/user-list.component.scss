@@ -1,0 +1,33 @@
+mat-table {
+  min-width: 100%;
+  width: fit-content;
+
+  .mat-column-email {
+    min-width: 150px;
+  }
+
+  .mat-column-displayedName {
+    min-width: 110px;
+  }
+
+  .mat-column-firstName {
+    min-width: 80px;
+  }
+
+  .mat-column-lastName {
+    min-width: 150px;
+  }
+
+  .mat-column-birthday {
+    min-width: 90px;
+  }
+
+  .mat-column-status {
+    min-width: 80px;
+  }
+
+  .mat-column-actions {
+    flex: none;
+    width: 80px;
+  }
+}

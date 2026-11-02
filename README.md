@@ -1,3 +1,5 @@
+> **Fork notice:** This repository is a copy of [diep-it-dn/fullstack-go-angular](https://github.com/diep-it-dn/fullstack-go-angular), maintained by its original authors. All credit for the original work goes to them. It's licensed under the upstream project's license (MIT).
+
 # Full-Stack Go, Angular
 
 **Demo at: https://fullstack-go-angular.herokuapp.com/**
